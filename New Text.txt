@@ -1,0 +1,3 @@
+Having 2+ years of experience in DevOps Engineer in the fields of automation, configuration management and cloud services.
+Experience in using Git, Jenkins, Ansible and AWS services which reduce the effort of developers and operation teams in performing maintenance and daily operations.
+
